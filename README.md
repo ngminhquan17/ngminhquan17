@@ -28,12 +28,12 @@
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="ngminhquan17">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ngminhquan17&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+<br> 
+
+<a href="#" title="Trungquandev">
+  <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=ngminhquan17&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+
 
 <br>
 <h2 align="center">🍀 Where to find me 🍀</h2>
