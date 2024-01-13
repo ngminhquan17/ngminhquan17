@@ -41,16 +41,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100053745327641" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="minhquan-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/qu%C3%A2n-nguy%E1%BB%85n-minh-615a4227b/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="minhquan-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/slack.png" alt="trungquandev-instagram" />
+  <a href="https://sun-xseeds.slack.com/team/U0411QK1QHJ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/slack.png" alt="minhquan-slack" />
   </a>
   <a href="mailto:nguyenminhquan17022003@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="minhquann-email" />
   </a>
 </div>
 
@@ -61,5 +61,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="minhquan-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="minhquan-quotes.svg" width="846" height="150" alt="minhquan-quote" />
 </a>
