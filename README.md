@@ -24,7 +24,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=#F37626" alt="jupyter logo" title="jupyter" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/javascript-282C34?logo=javascript&logoColor=#F7DF1E" alt="javascript logo" title="javascript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=#F7DF1E" alt="php logo" title="php" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/linux-282C34?logo=linux&logoColor=#F7DF1E" alt="linux logo" title="linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ubuntu-282C34?logo=ubuntu&logoColor=#F7DF1E" alt="ubuntu logo" title="ubuntu" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/slack-282C34?logo=slack&logoColor=#4A154B" alt="slack logo" title="slack" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=#4A154B" alt="figma logo" title="figma" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
